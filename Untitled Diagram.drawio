@@ -1,1 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T14:46:48.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.5" etag="b4rDZuIxH8sFMt_eSIEz" type="github"><diagram id="QyaHyp6G-d6ZpQuOctzx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-25T15:01:43.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZjYJbCxpvFTntfpQ_3jE" version="15.5.5" type="github">
+  <diagram id="QyaHyp6G-d6ZpQuOctzx" name="Page-1">
+    <mxGraphModel dx="1312" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-1" target="HbTBQ_dDDNYf1046p0vf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="190" />
+              <mxPoint x="290" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-1" target="HbTBQ_dDDNYf1046p0vf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-1" target="HbTBQ_dDDNYf1046p0vf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-1" target="HbTBQ_dDDNYf1046p0vf-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-1" value="Deep learning, neurónové siete a ich využitie v praxi&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-3" target="HbTBQ_dDDNYf1046p0vf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-3" value="Abstrakt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-5" value="Aká je téma článku&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="50" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-7" target="HbTBQ_dDDNYf1046p0vf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-7" value="Úvod" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-9" value="O čom budem písať,vysvetlenie témy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="42.5" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-11" target="HbTBQ_dDDNYf1046p0vf-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="390" />
+              <mxPoint x="200" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-11" target="HbTBQ_dDDNYf1046p0vf-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-11" value="Modelovanie v softvérovom inžinierstve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="285" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-13" value="Čo je model v soft. inžinierstve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-15" value="Čo je softvérové inžinierstvo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-17" target="HbTBQ_dDDNYf1046p0vf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-17" value="Umelá inteligencia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-19" target="HbTBQ_dDDNYf1046p0vf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-19" value="Strojové učenie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-22" target="HbTBQ_dDDNYf1046p0vf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-22" value="Deep learning" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="560" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-24" target="HbTBQ_dDDNYf1046p0vf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-24" target="HbTBQ_dDDNYf1046p0vf-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-24" target="HbTBQ_dDDNYf1046p0vf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-24" target="HbTBQ_dDDNYf1046p0vf-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-24" value="Model neurónovej siete&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="660" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-26" target="HbTBQ_dDDNYf1046p0vf-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbTBQ_dDDNYf1046p0vf-26" target="HbTBQ_dDDNYf1046p0vf-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="363" y="695" />
+              <mxPoint x="363" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-26" value="Vznik" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="655" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-28" value="Vývoj" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-30" value="mozgové neuróny" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="760" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-33" value="Ako funguje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="790" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-35" value="Využitie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="810" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-37" value="Ukážka kódu&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="790" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HbTBQ_dDDNYf1046p0vf-39" value="Budúcnosť" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
